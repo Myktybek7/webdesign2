@@ -1,13 +1,6 @@
-p,h1, li, a {
-    color: red;
-}
 
 h1 {
     font-family: 'Concert One', sans-serif;
-}
-
-html{
-    background-color: orange;
 }
 
 h1 {
@@ -17,14 +10,17 @@ h1 {
     text-shadow: 20px 20px 10px black ; 
 }
 
-body {
-    width: 600px;
-    background-color: orange;
-    padding: 20px 20px 20px 20px;
-    border: 20px orange
-}
-
 img {
     display: block;
+    margin: 0 auto;
+}
+p{
+    color: #0E3386;
+}
+body{
+    width: 600px;
     margin: auto;
+    background-color: orange;
+    padding: 10px 20px 20px 20px ;
+    border: 10px black;
 }
