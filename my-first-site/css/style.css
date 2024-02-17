@@ -3,24 +3,8 @@ h1 {
     font-family: 'Concert One', sans-serif;
 }
 
-h1 {
-    margin: px;
-    padding: 20px 0;
-    color: #0E3386;
-    text-shadow: 20px 20px 10px black ; 
-}
-
 img {
     display: block;
     margin: 0 auto;
-}
-p{
-    color: #0E3386;
-}
-body{
-    width: 600px;
-    margin: auto;
-    background-color: orange;
-    padding: 10px 20px 20px 20px ;
-    border: 10px black;
+    width: 1000px;
 }
